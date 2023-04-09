@@ -1,7 +1,7 @@
-#Mi Presentación
+# Mi Presentación
 
-##Soy Gael Roldán
-###Legajo: 2040165
+## Soy Gael Roldán
+### Legajo: 2040165
 
 ![yo](1.jpg)
 
